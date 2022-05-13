@@ -1,19 +1,23 @@
-<h3>Beautiful CSS box-shadow examples - 예쁜 박스 쉐도우 모음 사이트 </h3>
-https://getcssscan.com/css-box-shadow-examples
+<div align="center">
+  <h1> ✨ CSS-source </h1>
+작업할 때 참고할 수 있는 유용한 사이트들
+</div>
 
-<h3>SVG Background - SVG 배경 사이트 </h3>
-https://app.haikei.app/ </br>
-https://coolbackgrounds.io/
+<hr>
 
-<h3>Color Space - 색조합 사이트 </h3>
-https://mycolor.space/
+### SVG 배경
+* https://app.haikei.app/ 
+* https://coolbackgrounds.io/
+* https://www.shapedivider.app/
+  * 곡선 SVG 만들어 주는 사이트
 
-<h3>Shape Divider - 곡선 SVG 만들어주는 사이트 </h3>
-https://www.shapedivider.app/
+### 박스 쉐도우
+* https://getcssscan.com/css-box-shadow-examples
 
-<h3>Design - 디자인 참고 사이트 </h3>
-https://dribbble.com/
+### 색조합
+* https://mycolor.space/
+* https://vanschneider.com/colors
+  * 두가지 색 조합 추천 사이트
 
-<h3>Vanschneider - 두가지 색 조합을 추천해주는 사이트</h3>
-
-https://vanschneider.com/colors
+### 디자인
+* https://dribbble.com/
